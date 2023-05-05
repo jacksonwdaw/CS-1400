@@ -11,6 +11,7 @@ def square(turtle,l1, l2):
         turtle.lt(90)
         turtle.fd(l2)
         turtle.lt(90)
+        '''lol'''
         
 def circle(radius, extent):
     t.circle(radius, extent)

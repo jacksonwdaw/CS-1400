@@ -10,7 +10,7 @@ import tempfile
 import textwrap
 import traceback
 import turtle
-
+'''lol'''
 def save_to_image(dest='doodle.png'):
     '''Saves the turtle canvas to dest. Do not modify this function.'''
     with tempfile.NamedTemporaryFile(prefix='doodle',
